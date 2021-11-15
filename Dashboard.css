@@ -1,0 +1,23 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+.content h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+
+.content input[type=text] {
+    width: 250px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.content input[type=submit] {
+    width: 100px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: #006699;
+    color:white;
+}
